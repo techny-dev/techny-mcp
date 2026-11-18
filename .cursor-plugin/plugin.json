@@ -1,0 +1,11 @@
+{
+  "name": "techny",
+  "version": "1.0.0",
+  "description": "Open tech roles in Egypt, Saudi Arabia and the UAE, read from each company's careers page every 3 hours.",
+  "author": { "name": "Techny" },
+  "homepage": "https://techny.dev/agents",
+  "repository": "https://github.com/techny-dev/techny-mcp",
+  "license": "MIT",
+  "keywords": ["jobs", "job-search", "egypt", "saudi-arabia", "uae", "mena", "tech-jobs", "careers"],
+  "logo": "assets/logo.svg"
+}

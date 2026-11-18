@@ -1,0 +1,10 @@
+{
+  "name": "techny-mcp",
+  "version": "1.0.0",
+  "description": "Open tech roles in Egypt, Saudi Arabia and the UAE, read from each company's careers page every 3 hours.",
+  "mcpServers": {
+    "techny": {
+      "httpUrl": "https://techny.dev/mcp"
+    }
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
+  "name": "dev.techny/techny",
+  "title": "Techny",
+  "description": "Open tech roles in Egypt, Saudi Arabia and the UAE, from each company's careers page.",
+  "version": "1.0.0",
+  "websiteUrl": "https://techny.dev/agents",
+  "icons": [
+    { "src": "https://techny.dev/apple-icon.png", "mimeType": "image/png", "sizes": ["180x180"] },
+    { "src": "https://techny.dev/icon.svg", "mimeType": "image/svg+xml", "sizes": ["any"] }
+  ],
+  "remotes": [
+    { "type": "streamable-http", "url": "https://techny.dev/mcp" }
+  ]
+}
