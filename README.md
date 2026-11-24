@@ -2,6 +2,8 @@
 
 # Techny MCP server
 
+[![Techny MCP connector](https://glama.ai/mcp/connectors/dev.techny/techny/badges/score.svg)](https://glama.ai/mcp/connectors/dev.techny/techny)
+
 Open tech roles in **Egypt, Saudi Arabia and the UAE**, and remote roles open to people there, for your AI assistant.
 [Techny](https://techny.dev) reads each company's own careers page every 3 hours and lists only tech roles:
 engineering, data and AI, infrastructure and IT, security, product and design.
